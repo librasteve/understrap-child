@@ -1,3 +1,13 @@
+## understrap-child (from git fork)
+- Local new site - 'sassy'
+- wp admin install && activate understrap parent theme
+- cd LocalSites/sassy/app/public/wp-content/themes/
+- git clone https://github.com/librasteve/understrap-child.git && cd
+- npm install
+- npm run watch
+- wp admin find && activate understrap child theme
+
+
 <p align="center"><img src="https://understrap.com/wp-content/uploads/2022/02/Understrap_Logo_Color.svg" width="320" height="auto"></p>
 
 #### See: [Official Demo](https://demos.understrap.com) | Read: [Official Docs Page](https://docs.understrap.com/)
